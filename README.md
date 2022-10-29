@@ -75,7 +75,7 @@ The "Install" folder contains the "App" and "Dependencies" folders, the installe
 
 If you want to edit the configuration file you need to know the various tabs of InstallForge. You can get this knowledge from the [thesis](https://github.com/GabrieleColapinto/Tesi-di-laurea-triennale) or from other sources of your choice.
 
-The "App" folder contains the files and folders derived from the Unity building process and the "Assets" frolder containing files external to Unity. At the moment those files are the vocalization server and [Rasa](https://rasa.com/). After you build a new version of the application you have to copy its files in the App folder. **_Make sure to delete the folder labeled as "Do Not Ship"._**
+The "App" folder contains the files and folders derived from the Unity building process and the "Assets" folder which contains files external to Unity. At the moment those files are the vocalization server and [Rasa](https://rasa.com/). After you build a new version of the application you have to copy its files in the App folder. **_Make sure to delete the folder labeled as "Do Not Ship"._**
 
 In the "Dependencies" folder you will find the files used by InstallForge to make the application work. Beside the installers of Python and Visual C++ and the requirements for the virtual environment of Python you will find a file to edit the system registry and two batch files.
 
