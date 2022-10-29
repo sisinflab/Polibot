@@ -1,0 +1,1 @@
+reg import Attivazione_riconoscimento_vocale.reg
